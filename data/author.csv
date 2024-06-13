@@ -1,0 +1,2 @@
+id,name,email,password,created_on
+4eaaaf52-7c3a-4902-b661-4cdb02bc9140,Yashvardhan Singh,draco882003@gmail.com,"$argon2id$v=19$m=19456,t=2,p=1$leoTtegzNWds5Lwq8CtLuQ$6KusVuMtDiL766PQ80yusCol4WwK1aQaHB4Ol2MTD2I",2024-06-13T09:38:42.796059+05:30
